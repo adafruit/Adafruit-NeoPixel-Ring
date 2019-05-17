@@ -1,4 +1,4 @@
-# Adafruit NeoPixel Rings
+# Adafruit 12, 16, and 24 NeoPixel Rings
 
 <a href="http://www.adafruit.com/products/1463"><img src="assets/1463.jpg?raw=true" width="275px"></a>&nbsp; 
 <a href="http://www.adafruit.com/products/1586"><img src="assets/1586.jpg?raw=true" width="275px"></a>&nbsp; 
